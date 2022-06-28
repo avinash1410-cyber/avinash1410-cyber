@@ -11,8 +11,10 @@
   <a href="https://twitter.com/Avinash55899407/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <div>
   <img src="https://komarev.com/ghpvc/?username=avinash1410-cyber&style=flat-square&color=blue" alt=""/>
   </div>
+   </div>
 
 <h1>
   hey there
