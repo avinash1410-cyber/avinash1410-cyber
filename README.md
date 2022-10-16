@@ -1,5 +1,6 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF" width="100"/>
+<h2>Backend Intern @Spinny</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/avinash-kumar-9b14a8202/">
